@@ -28,7 +28,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Vue.js, React.js, Next.js, Node.js, Laravel, Prisma**
 
-- 🌱 I’m currently learning **to learn better and deeper frontend frameworks procedures.**
+- 🌱 I’m currently learning **better and deeper frontend frameworks procedures.**
 
 - ☁️ I've keen interest in machine learning. So,I'm learning **Python**
 
