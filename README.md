@@ -11,9 +11,12 @@
 
 <!--- snake -->
 <div align="center">
-  <img src="https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png">
+    <picture align="center">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+    </picture>
 </div>
-
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
