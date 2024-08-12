@@ -11,7 +11,7 @@
 
 <!--- snake -->
 <div align="center">
-    <picture><img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width = 900px align="center"></picture>
+    <picture><img src="https://giphy.com/embed/3o7btZ3T6y3JTmjg4w" align="center"></picture>
 </div>
 
 <!--h2 without bottom border-->
