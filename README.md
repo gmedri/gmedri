@@ -1,105 +1,63 @@
+<!--Horizontal Divider-->
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #ff7e5f, #feb47b); margin: 20px 0;" />
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Section Header -->
+<h2 align="center" style="border-bottom: 2px solid #feb47b; display: inline-block;">Confusion is Part of Programming</h2>
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
+<!-- Intro Section -->
+<div align="center" style="font-size: 18px; margin-bottom: 20px;">
+  <p>🔭 I’m currently working on <strong>Vue.js, React.js, Next.js, Node.js, Laravel, Prisma</strong></p>
+  <p>🌱 I’m learning deeper frontend frameworks procedures.</p>
+  <p>☁️ Keen interest in machine learning, exploring <strong>Python</strong></p>
+  <p>💬 Ask me about <strong>AWS, React, Vue, Nodejs, Laravel, WordPress</strong></p>
+  <p>📫 Reach out: <strong>augustomedri20@gmail.com</strong></p>
 </div>
 
-
-<!--Intro start-->
-- 🔭 I’m currently working on **Vue.js, React.js, Next.js, Node.js, Laravel, Prisma**
-
-- 🌱 I’m currently learning **better and deeper frontend frameworks procedures.**
-
-- ☁️ I've keen interest in machine learning. So,I'm learning **Python**
-
-- 💬 Ask me about **AWS, React, Vue, Nodejs, next, Nuxt, Laravel, JQuery, Wordpress**
-
-- 📫 Feel free to reach me out **augustomedri20@gmail.com**
-
-<!--Intro end-->
-
-
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=gmedri&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gmedri&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gmedri&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=gmedri&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+<!-- Stats & Trophies -->
+<div align="center">
+  <table style="width: 80%; margin: auto;">
+    <tr>
+      <td align="center" style="width: 50%;">
+        <img src="https://github-readme-stats.vercel.app/api?username=gmedri&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
+        <br><br>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=gmedri&theme=dark&hide_border=false" alt="GitHub Streak" />
+      </td>
+      <td align="center" style="width: 50%;">
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gmedri&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  <div style="margin-top: 20px;">
+    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img width="84%" src="https://github-profile-trophy.vercel.app/?username=gmedri&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
     </a>
+  </div>
 </div>
-<!--- trophy (start) -->
 
-
-</p>        
-<!--- stats (end) -->
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
+<!-- Technologies Section -->
+<h2 align="center" style="border-bottom: 2px solid #feb47b; display: inline-block;">Technologies That I Know👨🏻‍💻</h2>
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,figma,github,html,java,js,linux,md,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vuejs,nuxtjs,wordpress,slack,asana,jira,python,vscode&perline=14" />
   </a>
-</p>
-
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
 </div>
 
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/augusto-favero-medri-3a4a14186/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://instagram.com/guh_medri" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://discord.gg/365284898787033100" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
-</p>
-
-
-<!--profile visit count-->
+<!-- Connect with Me Section -->
+<h2 align="center" style="border-bottom: 2px solid #feb47b; display: inline-block;">Connect With Me🤝</h2>
 <div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=gmedri&icon=3&color=6)](https://visitcount.itsvg.in)
-  
+  <a href="https://www.linkedin.com/in/augusto-favero-medri-3a4a14186/" target="_blank"><img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" style="height: 50px; width: 50px; margin-right: 15px;" /></a>
+  <a href="https://instagram.com/guh_medri" target="_blank"><img src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="Instagram" style="height: 50px; width: 50px; margin-right: 15px;" /></a>
+  <a href="https://discord.gg/365284898787033100" target="_blank"><img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="Discord" style="height: 50px; width: 50px;" /></a>
 </div>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Profile Visit Counter -->
+<div align="center" style="margin-top: 20px;">
+  <a href="https://visitcount.itsvg.in" target="_blank">
+    <img src="https://visitcount.itsvg.in/api?id=gmedri&icon=3&color=6" alt="Profile Visit Count" />
+  </a>
+</div>
 
-----------------------------------------------------------------------
+<!--Horizontal Divider-->
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #ff7e5f, #feb47b); margin: 20px 0;" />
 
-Last Edited on: 11/09/2023
+<p align="center">Last Edited on: 08/17/2024</p>
