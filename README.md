@@ -10,7 +10,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Vue.js, React.js, Next.js, Node.js, Laravel, Prisma**
+- 🔭 I’m currently working on **Vue.js, React.js and Ruby**
 
 - 🌱 I’m currently learning **better and deeper frontend frameworks procedures.**
 
