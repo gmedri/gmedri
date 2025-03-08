@@ -12,7 +12,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Vue.js, React.js and Ruby**
 
-- 🌱 I’m currently learning **better and deeper frontend frameworks procedures.**
+- 🌱 I’m currently learning **better and deeper fullstack procedures.**
 
 - ☁️ I've keen interest in machine learning. So,I'm learning **Python**
 
