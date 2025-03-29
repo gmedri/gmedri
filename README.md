@@ -16,7 +16,7 @@
 
 - ☁️ I've keen interest in machine learning. So,I'm learning **Python**
 
-- 💬 Ask me about **AWS, React, Vue, Nodejs, next, Nuxt, Laravel, JQuery, Wordpress**
+- 💬 Ask me about **AWS, React, Vue, Nodejs, Next, Nuxt, Laravel, JQuery, Wordpress, Vue, Ruby and so goes on..**
 
 - 📫 Feel free to reach me out **augustomedri20@gmail.com**
 
