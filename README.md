@@ -10,7 +10,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Vue.js, React.js and Ruby**
+- 🔭 I’m currently working on **Vue.js, React.js and Ruby** (7y + of experience)
 
 - 🌱 I’m currently learning **better and deeper fullstack procedures.**
 
